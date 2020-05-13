@@ -1,0 +1,3 @@
+https://github.com/keywish/mega2560-starter-kit
+software:
+http://www.emakefun.com/download
